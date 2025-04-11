@@ -1,6 +1,7 @@
 <h1 align="center"><b>Hi, I'm Nicolás Vergesio<br>(but just call me Nick)</b></h1>
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://github.com/user-attachments/assets/6c2ae54a-6ab4-478d-a000-aa6ddd32f00f" />
+
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lmenpkYmV2cmhmaGFibGozMXljaXB1Y2c4M3U5MmsxbjZxMXJqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WmunPY9JAIwfobtjgs/giphy.gif" width="30px">&nbsp;***About me***
 
